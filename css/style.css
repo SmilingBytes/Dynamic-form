@@ -1,0 +1,10 @@
+.mforms{display:inline-block; margin: 0px 12px;max-width:310px; min-height:500px;}
+.row-fluid{white-space: nowrap; max-width:100%;}
+.removeButton{ margin-left:30px;}
+#mytextarea1, #mytextarea{min-height:400px;}
+.note-toolbar.panel-heading {
+    white-space: normal;
+}
+.note-editable.panel-body {
+    min-height: 400px;
+}
